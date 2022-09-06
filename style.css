@@ -121,6 +121,8 @@ h2{
 }
 
 .las_imagenes{
+    border: 1px solid;
+    background-image: linear-gradient(to left, rgb(62, 32, 32), rgb(209, 209, 144));
     display: flex;
     display: grid;
     grid-template-columns: repeat(5, 1fr);
